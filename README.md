@@ -15,12 +15,6 @@
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=zzehraooner&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-## 🌐 Socials:
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/zzehraooner) 
-[![twitter Badge](https://img.shields.io/badge/-twitter-FF9800?style=flat-quare&labelColor=FF9800&logo=twitter&logoColor=white&link=link)]([[link](https://twitter.com/zzehraooner)](https://twitter.com/zzehraooner))
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=link)]([link](https://www.linkedin.com/in/zzehraooner))
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zzehraooner&theme=radical&no-frame=false&no-bg=true&margin-w=4)
