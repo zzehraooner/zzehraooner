@@ -18,7 +18,7 @@
 ## 🌐 Socials:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/zzehraooner) 
-[![twitter Badge](https://img.shields.io/badge/-twitter-FF9800?style=flat-quare&labelColor=FF9800&logo=twitter&logoColor=white&link=link)]([link](https://twitter.com/zzehraooner))
+[![twitter Badge](https://img.shields.io/badge/-twitter-FF9800?style=flat-quare&labelColor=FF9800&logo=twitter&logoColor=white&link=link)]([[link](https://twitter.com/zzehraooner)](https://twitter.com/zzehraooner))
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=link)]([link](https://www.linkedin.com/in/zzehraooner))
 
 
